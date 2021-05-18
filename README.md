@@ -8,7 +8,7 @@ To run the codes, you should:
 3.python run_ZSSR.py
 
 
-Note: 
+Notes: 
 
 1.Most of the codes are taken from https://github.com/assafshocher/ZSSR, except the codes in "enhancedsimplenet.py".
 
