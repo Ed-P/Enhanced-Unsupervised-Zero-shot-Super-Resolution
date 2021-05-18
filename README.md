@@ -5,7 +5,7 @@ To run the codes, you should:
 
 2.Creat a directory named "results", where the output images will be stored.
 
-3.python run_ZSSR.py
+3.python run_EZSSR.py
 
 
 Notes: 
